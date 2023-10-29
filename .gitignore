@@ -3,4 +3,6 @@ jdk*
 
 OpenJDK*
 BuildTools.jar
+*.tar.gz
 
+*iml
