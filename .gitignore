@@ -7,3 +7,6 @@ BuildTools.jar.txt
 *.tar.gz
 
 *iml
+
+/**
+/**/*.java
